@@ -1,18 +1,3 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Infraestrutura Global do Azure</title>
-    <style>
-        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; }
-        h1, h2, h3 { color: #0078D7; }
-        ul { margin: 10px 0; padding-left: 20px; }
-        code { background: #f4f4f4; padding: 2px 5px; border-radius: 4px; }
-    </style>
-</head>
-<body>
-
 <h1>🌍 Infraestrutura Global do Azure</h1>
 <p>
     A infraestrutura do <strong>Microsoft Azure</strong> oferece uma plataforma de nuvem segura, sustentável e escalável.
